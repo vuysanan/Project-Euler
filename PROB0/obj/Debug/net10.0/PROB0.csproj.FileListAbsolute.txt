@@ -1,0 +1,14 @@
+C:\Not Works\2026\Project Euler\PROB0\bin\Debug\net10.0\PROB0.exe
+C:\Not Works\2026\Project Euler\PROB0\bin\Debug\net10.0\PROB0.deps.json
+C:\Not Works\2026\Project Euler\PROB0\bin\Debug\net10.0\PROB0.runtimeconfig.json
+C:\Not Works\2026\Project Euler\PROB0\bin\Debug\net10.0\PROB0.dll
+C:\Not Works\2026\Project Euler\PROB0\bin\Debug\net10.0\PROB0.pdb
+C:\Not Works\2026\Project Euler\PROB0\obj\Debug\net10.0\PROB0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Not Works\2026\Project Euler\PROB0\obj\Debug\net10.0\PROB0.AssemblyInfoInputs.cache
+C:\Not Works\2026\Project Euler\PROB0\obj\Debug\net10.0\PROB0.AssemblyInfo.cs
+C:\Not Works\2026\Project Euler\PROB0\obj\Debug\net10.0\PROB0.csproj.CoreCompileInputs.cache
+C:\Not Works\2026\Project Euler\PROB0\obj\Debug\net10.0\PROB0.dll
+C:\Not Works\2026\Project Euler\PROB0\obj\Debug\net10.0\refint\PROB0.dll
+C:\Not Works\2026\Project Euler\PROB0\obj\Debug\net10.0\PROB0.pdb
+C:\Not Works\2026\Project Euler\PROB0\obj\Debug\net10.0\PROB0.genruntimeconfig.cache
+C:\Not Works\2026\Project Euler\PROB0\obj\Debug\net10.0\ref\PROB0.dll
